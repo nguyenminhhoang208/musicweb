@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Musics Player</title>
+    <link rel="stylesheet" href="./assets/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+<div class="container">
+
+    <!-- <div class="water"></div>
+    <div class="water"></div>
+    <div class="water"></div>
+    <div class="water"></div>
+    <div class="water"></div>
+    <div class="water"></div> -->
+    <canvas id="canvas"></canvas>
+
+    <div class="contents-wrapper">
+        <div id="dashboard" class="dashboard">
+            <!-- header -->
+            <header class="dashboard-header">
+                <div class="music_playing">
+                    <h4 class="now_playing">Now playing</h4>
+                    <!-- music name -->
+                    <div class="music_name">
+                    </div>
+
+                </div>
+
+                <div class="menu_icon-wrapper">
+                    <i class="fa-solid fa-bars icon " ></i>
+                </div>
+
+            </header>
+            <!-- music disc -->
+            <div class="music_disc-wrapper">
+            </div>
+            <!-- audio -->
+            <span id="audio-wrapper">
+            </span>
+
+            <!-- controls -->
+            <div class="controls-wrapper">
+                <input id="music_time" type="range" min="0" max="100" step="1" value="0">
+                <div class="btns">
+                    <div id="repeat-btn" class="repeat-btn btn ">
+                        <i  class="fa-solid fa-repeat icon"></i>
+                    </div>
+                    <div id="before-btn" class="before-btn btn">
+                        <i class="fa-solid fa-backward-fast icon "></i>
+                    </div>
+                    <div id="play-btn" class="play-btn btn show ">
+                        <i class="fa-solid fa-play icon"></i>
+                    </div>
+                    <div id="pause-btn" class="pause-btn btn ">
+                        <i class="fa-solid fa-pause icon"></i>
+                    </div>
+                    <div id="next-btn" class="next-btn btn">
+                        <i class="fa-solid fa-forward-fast icon"></i>
+                    </div>
+                    <div id="shuffle-btn" class="shuffle-btn btn ">
+                        <i class="fa-solid fa-shuffle icon"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- music_lists -->
+        <div class="music_lists-wrapper">
+            <ul id="music_lists" class="music_lists">
+                
+            </ul>
+        </div>
+        
+    
+    </div>
+
+</div>
+
+    <script src="./Javascript/main.js"></script>
+    <script src="./Javascript/canvas.js"></script>
+</body>
+</html>

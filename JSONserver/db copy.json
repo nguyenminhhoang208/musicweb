@@ -1,0 +1,112 @@
+{
+    "playLists": [
+      
+      {
+        "musicName": "Alone",
+        "creator": "Marshmello",
+        "image": "./assets/img/marshmello.jpg",
+        "music": "./assets/music/Marshmello - Alone (Official Music Video).mp3",
+        "id": 26
+      },
+      {
+        "musicName": "K-391 - Summertime [Sunshine]",
+        "creator": "K-391",
+        "image": "./assets/img/K_391.jpg",
+        "music": "./assets/music/K-391 - Summertime [Sunshine].mp3",
+        "id": 27
+      },
+      {
+        "musicName": "Sing Me To Sleep",
+        "creator": "Alan Walker",
+        "image": "./assets/img/AlanWalker.jpg",
+        "music": "./assets/music/Alan Walker - Sing Me To Sleep.mp3",
+        "id": 28
+      },
+      {
+        "musicName": "Perfect",
+        "creator": "Ed Sheeran",
+        "image": "./assets/img/ed sheeran.jpg",
+        "music": "./assets/music/Ed Sheeran - Perfect (Official Music Video).mp3",
+        "id": 29
+      },
+      {
+        "musicName": "OAH",
+        "creator": "Alexander Rybak",
+        "image": "./assets/img/Alexander Rybek.jpg",
+        "music": "./assets/music/Alexander Rybak - -OAH- (Official Music Video).mp3",
+        "id": 30
+      },
+      {
+        "musicName": "Faded",
+        "creator": "Alan Walker",
+        "image": "./assets/img/AlanWalker.jpg",
+        "music": "./assets/music/Alan Walker - Faded.mp3",
+        "id": 31
+      },
+      {
+        "musicName": "Happier",
+        "creator": "Marshmello ft. Bastille",
+        "image": "./assets/img/marshmello.jpg",
+        "music": "./assets/music/Marshmello ft. Bastille - Happier (Official Music Video).mp3",
+        "id": 32
+      },
+      {
+        "musicName": "Shape Of You",
+        "creator": "Ed Sheeran",
+        "image": "./assets/img/ed sheeran.jpg",
+        "music": "./assets/music/Ed Sheeran - Shape Of You (Lyrics).mp3",
+        "id": 33
+      }
+    ],
+    "addMusic": [
+      {
+        "musicName": "Lean On",
+        "creator": "Major Lazer & DJ Snake",
+        "image": "./assets/img/dj-snake.jpg",
+        "music": "./assets/music/Major Lazer & DJ Snake - Lean On (feat. MØ) (Official Music Video).mp3",
+        "id": 12
+      },
+      {
+        "musicName": " One More Night",
+        "creator": "Maroon 5",
+        "image": "./assets/img/maroon 5.jpg",
+        "music": "./assets/music/Maroon 5 - One More Night (Official Music Video).mp3",
+        "id": 20
+      },
+      {
+        "musicName": "On My Way",
+        "creator": "Alan Walker",
+        "image": "./assets/img/AlanWalker2.jpeg",
+        "music": "./assets/music/Alan Walker, Sabrina Carpenter & Farruko - On My Way.mp3",
+        "id": 23
+      },
+      {
+        "musicName": "Fly Away",
+        "creator": "TheFatRat",
+        "image": "./assets/img/The Fat Rat.jpg",
+        "music": "./assets/music/TheFatRat - Fly Away feat. Anjulie.mp3",
+        "id": 24
+      },
+      {
+        "musicName": "Dusk Till Dawn",
+        "creator": "New Hope Club",
+        "image": "./assets/img/New Hope Club.jpg",
+        "music": "./assets/music/Dusk Till Dawn - Zayn & Sia (Cover by New Hope Club).mp3",
+        "id": 25
+      },
+      {
+        "musicName": "The Spectre",
+        "creator": "Alan Walker",
+        "image": "./assets/img/AlanWalker.jpg",
+        "music": "./assets/music/Alan Walker - The Spectre.mp3",
+        "id": 1
+      },
+      {
+        "musicName": "Girls Like You",
+        "creator": "Maroon 5",
+        "image": "./assets/img/maroon 5.jpg",
+        "music": "./assets/music/Maroon 5 - Girls Like You ft. Cardi B (Volume 2) (Official Music Video).mp3",
+        "id": 2
+      }
+    ]
+  }
